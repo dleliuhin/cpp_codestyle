@@ -28,6 +28,7 @@ Based on [readability* group](https://clang.llvm.org/extra/clang-tidy/checks/lis
 | Version | Type    | ChangeLog                                      |
 |---------|---------|------------------------------------------------|
 | 1.0     | Feature | Initial commit. Basic readability options add. |
+| 1.0.1   | Fix	    | Remove readability-avoid-const-params-in-decls |
 
 ---
 ## 4. Support
